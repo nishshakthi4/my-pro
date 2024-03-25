@@ -77,5 +77,9 @@ Java,angular,.Net, HTML, CSS...
 ![Alt text](asset/demo%204.gif) 
 
 
-(https://github.com/nishshakthi4/my-pro/assets/121175760/d01cfd70-0032-4377-8940-dd8bfa1f16c6)
+
+https://github.com/nishshakthi4/my-pro/assets/121175760/2301dfcc-a84e-480d-ab64-c48dc29e9ad3
+
+
+
 
