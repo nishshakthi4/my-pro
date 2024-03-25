@@ -1,5 +1,5 @@
-[README (11).md](https://github.com/nishshakthi4/my-pro/files/14741941/README.11.md)# my-pro
-[Uploading
+# my-pro
+
 ASSET TRACKING
 
 Basically asset tracking a tracking device that using a tag.so, in my project I build a software using the connection of angular,webapi and sql.
@@ -69,7 +69,7 @@ Java,angular,.Net, HTML, CSS...
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
- README (11).md…]()
+
 
 ![Alt text](asset/demo%201.gif) 
 ![Alt text](asset/demo%202.gif) 
@@ -77,5 +77,5 @@ Java,angular,.Net, HTML, CSS...
 ![Alt text](asset/demo%204.gif) 
 
 
-https://github.com/nishshakthi4/my-pro/assets/121175760/d01cfd70-0032-4377-8940-dd8bfa1f16c6
+(https://github.com/nishshakthi4/my-pro/assets/121175760/d01cfd70-0032-4377-8940-dd8bfa1f16c6)
 
